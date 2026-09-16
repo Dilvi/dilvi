@@ -1,96 +1,141 @@
-# Hi, I'm Artem 👋
+# Go Backend Developer
 
-### Go Backend Developer
+Backend developer focused on building reliable, maintainable and scalable services with **Go**.
 
-I'm a backend developer focused on building reliable and maintainable services with **Go**.
+I work with backend APIs, databases, asynchronous communication, service integrations and infrastructure.  
+Most of my projects revolve around **Go, PostgreSQL, Redis, Docker and Linux**, while I continue expanding my knowledge of distributed systems, messaging, observability and cloud-native technologies.
 
-Currently pursuing a Master's degree in **Information Systems and Technologies** at **RTU MIREA**.  
-I enjoy backend development, databases, service architecture, infrastructure, and learning how distributed systems work under the hood.
+I'm especially interested in:
+
+- Backend architecture
+- Distributed systems
+- Microservices
+- Service reliability
+- Performance optimization
+- Databases and data access
+- Event-driven systems
+- Infrastructure and deployment
+- Observability
+- System design
+
+Currently pursuing a Master's degree in **Information Systems and Technologies** at **RTU MIREA**.
 
 ---
 
-### 🧑‍💻 About me
+## 🧑‍💻 About me
 
-- 🔹 Focused on **backend development with Go**
-- 🔹 Building REST APIs and backend services
-- 🔹 Working with **PostgreSQL**, SQL and Redis
-- 🔹 Interested in **microservices and distributed systems**
-- 🔹 Using Docker and Linux for development and deployment
-- 🔹 Learning more about **gRPC, Kafka, Kubernetes and observability**
-- 🔹 Writing unit and integration tests
-- 🔹 Interested in clean architecture, performance and reliable systems
-- 🎓 Master's student in Information Systems and Technologies at **RTU MIREA**
+- Developing backend services with **Go**
+- Designing and implementing **REST API**, **gRPC** and HTTP-based integrations
+- Working with relational and NoSQL databases
+- Using **PostgreSQL**, SQL and Redis in backend applications
+- Working with message brokers and asynchronous communication
+- Building services with Docker-based environments
+- Using Linux as a development and deployment environment
+- Writing unit and integration tests
+- Working with CI/CD pipelines
+- Interested in microservice architecture and distributed systems
+- Learning and using observability tools for metrics and monitoring
+- Interested in performance profiling, reliability and fault-tolerant service design
+- Continuously improving my backend engineering and system design skills
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-#### Backend
+### Backend
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-005571?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-6C63FF?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3F51B5?style=for-the-badge)
 
-#### Databases & Storage
+---
+
+### Databases & Storage
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-#### Messaging & Distributed Systems
+---
+
+### Messaging & Event-Driven Systems
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-#### DevOps & Infrastructure
+![Transactional Outbox](https://img.shields.io/badge/Transactional_Outbox-Pattern-6A5ACD?style=for-the-badge)
+![Saga](https://img.shields.io/badge/Saga-Pattern-795548?style=for-the-badge)
+![Idempotency](https://img.shields.io/badge/Idempotency-Pattern-455A64?style=for-the-badge)
+![Circuit Breaker](https://img.shields.io/badge/Circuit_Breaker-Pattern-B71C1C?style=for-the-badge)
+
+---
+
+### DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-#### Observability
+---
+
+### Observability & Performance
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![pprof](https://img.shields.io/badge/pprof-Go_Profiling-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
-### 🎓 Education
+### Testing
 
-**RTU MIREA — Russian Technological University**
-
-🎓 **Master's degree — Information Systems and Technologies**  
-2026 — 2028
-
-🎓 **Bachelor's degree — Information Systems and Technologies**  
-2022 — 2026
-
-📚 Additional professional training in **DevOps Engineering**
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-02569B?style=for-the-badge)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-4CAF50?style=for-the-badge)
 
 ---
 
-### 📊 GitHub Stats
+### Other
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 📫 Contacts
+## ⚙️ Areas of Interest
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Dilvi356-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dilvi356)
+```text
+Backend Development
+├── Go
+├── REST API
+├── gRPC
+├── SQL
+├── PostgreSQL
+└── Redis
 
----
+Distributed Systems
+├── Microservices
+├── Apache Kafka
+├── RabbitMQ
+├── Transactional Outbox
+├── Saga
+├── Idempotency
+└── Circuit Breaker
 
-<p align="center">
-  <i>Backend development • Go • Distributed Systems</i>
-</p>
+Infrastructure
+├── Docker
+├── Kubernetes
+├── Linux
+├── Git
+└── CI/CD
+
+Observability
+├── Prometheus
+├── Grafana
+└── pprof
